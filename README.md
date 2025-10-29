@@ -114,7 +114,7 @@ class Observer:
 ## █ COORDINATES
 <div style="font-family: 'Courier New', monospace; color: #9B8B7E;">
 <pre>
-Availability: Zero
+Avail:        Zero
 Routes:       Encrypted
 Contact:      The void does not respond
 </pre>
