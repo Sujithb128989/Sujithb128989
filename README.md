@@ -116,13 +116,13 @@ class Observer:
 ---
 
 ## █ COORDINATES
-<div style="font-family: 'Courier New', monospace; color: #9B8B7E;">
-<pre>
-Avail:        Zero
-Routes:       Encrypted
-Contact:      The void does not respond
-</pre>
-</div>
+
+```diff
+- Avail:        Zero
++ Routes:       Encrypted
+! Contact:      The void does not respond
+# This is a gray comment
+```
 
 ---
 
