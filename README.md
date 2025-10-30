@@ -119,8 +119,8 @@ class Observer:
 
 ```diff
 - Avail:        Zero
-@@Routes:       Encrypted
-# Contact:      The void does not respond
++ Routes:       Encrypted
+@@ Contact:      The void does not respond@@
 ```
 
 ---
