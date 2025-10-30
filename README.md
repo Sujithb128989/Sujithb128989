@@ -127,7 +127,7 @@ class Observer:
 
 <table bgcolor="black" width="100%">
   <tr>
-    <td align="center" style="padding: 50px;">
+    <td align="center" style="padding: 30px;">
       <p align="center">
         <font color="red" size="+3">
           <i>
@@ -138,7 +138,7 @@ class Observer:
         </font>
       </p>
       <br><br>
-      <img src="1.gif" width="900" alt="Transmission Error" style="image-rendering:pixelated;">
+      <img src="1.gif" width="1200" alt="Transmission Error" style="image-rendering:pixelated;">
     </td>
   </tr>
 </table>
