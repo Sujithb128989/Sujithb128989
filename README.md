@@ -127,9 +127,9 @@ class Observer:
 
 <table bgcolor="black" width="100%">
   <tr>
-    <td align="center" style="padding: 30px;">
+    <td align="center" style="padding: 40px;">
       <p align="center">
-        <font color="red" size="+3">
+        <font color="red" size="+4">
           <i>
             They told him, “Cease thy struggle, wretch; thy labors are for naught.
             <br>
@@ -138,7 +138,7 @@ class Observer:
         </font>
       </p>
       <br><br>
-      <img src="1.gif" width="1200" alt="Transmission Error" style="image-rendering:pixelated;">
+      <img src="1.gif" width="1000" alt="Transmission Error" style="image-rendering:pixelated;">
     </td>
   </tr>
 </table>
