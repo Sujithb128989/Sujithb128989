@@ -118,10 +118,9 @@ class Observer:
 ## █ COORDINATES
 
 ```diff
-- Avail:        Zero
-+ Routes:       Encrypted
-! Contact:      The void does not respond
-# This is a gray comment
+-  Avail:        Zero
+@@ Routes:       Encrypted
+#  Contact:      The void does not respond
 ```
 
 ---
