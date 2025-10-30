@@ -98,7 +98,7 @@ class Observer:
         return "Silent push to the void"
 
     def reveal(self):
-        key = "entropy"
+        key = "?"
         result = ''
         for i, char in enumerate(self.enc):
             if char.isalpha():
