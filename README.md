@@ -138,7 +138,7 @@ class Observer:
         </font>
       </p>
       <br><br>
-      <img src="1.gif" width="850" alt="Transmission Error" style="image-rendering:pixelated;">
+      <img src="1.gif" width="750" alt="Transmission Error" style="image-rendering:pixelated;">
     </td>
   </tr>
 </table>
