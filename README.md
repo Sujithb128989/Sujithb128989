@@ -24,10 +24,10 @@
 ---
 
 ## █ TRANSMISSION LOG
-<font color="red">- Location: [REDACTED]</font><br>
-<font color="red">- Identity: Fragmented across distributed systems</font><br>
-<font color="green">+ Status: Active in the digital realm</font><br>
-<font color="green">+ Mission: Build. Break. Rebuild.</font><br>
+- Location: [REDACTED]
+- Identity: Fragmented across distributed systems
++ Status: Active in the digital realm
++ Mission: Build. Break. Rebuild.
 
 ---
 
