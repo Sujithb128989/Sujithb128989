@@ -31,7 +31,6 @@
 + Status: Active in the digital realm
 + Mission: Build. Break. Rebuild.
 ```
-```
 
 
 ---
